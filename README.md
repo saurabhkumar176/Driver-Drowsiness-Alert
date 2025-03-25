@@ -1,5 +1,4 @@
 # Driver-Drowsiness-Alert
-# Drowsiness Detection System
 
 ## 🚀 Overview
 The **Drowsiness Detection System** is a real-time application designed to detect driver fatigue and prevent accidents. Using **computer vision and machine learning**, this system continuously monitors eye movements and triggers an alert if drowsiness is detected.
