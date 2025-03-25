@@ -39,9 +39,6 @@ python main.py
 ```
 Press **'q'** to exit the application.
 
-## 📸 Demo Screenshot
-![Drowsiness Detection Demo](https://via.placeholder.com/800x400?text=Demo+Screenshot)
-
 ## 🚀 How It Works
 1. **Captures Video Input** from the webcam.
 2. **Detects Facial Landmarks** using MediaPipe.
